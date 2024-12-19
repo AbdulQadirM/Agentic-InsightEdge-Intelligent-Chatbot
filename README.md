@@ -30,7 +30,7 @@ AGENTIC evaluates the user’s query and selects the most effective medium to re
 - **LangChain:** For tool and agent integration.
 - **Streamlit:** For building the user interface.
 - **Wikipedia API:** For fetching text-based information.
-- **DALL·E 3: **For generating images.
+- **DALL·E 3:** For generating images.
 - **YouTube Search API:** For finding relevant videos.
 
 ## Installation  
